@@ -4,5 +4,7 @@
 * CoinGecko
 * Binance
 * Kraken (это если что американская биржа крипты, она не связана ни с чем незаконным)
-
+ <br />
+Пример вывода скрипта в командной строке:  <br /> 
+ <br /> 
 <img width="1183" height="293" alt="image" src="https://github.com/user-attachments/assets/dcd1a36b-c290-460a-8b0c-239e886b9dd5" />
