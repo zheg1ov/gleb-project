@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "blEAPAQD92g=",
+  "success": true,
+  "projectFilePath": "D:\\dde_dz\\gleb-project\\gleb-project.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zheg1\\.nuget\\packages\\system.data.sqlite\\2.0.2\\system.data.sqlite.2.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
