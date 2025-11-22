@@ -22,6 +22,9 @@ def clean_y(x):
     except Exception:
         return np.nan
 
+def prepare_dataframe(df):
+    df = df.dropna(how='any')
+    return df
 
 # Применение функций методом бродкаста для экономии времени
 
@@ -33,5 +36,4 @@ raw_data["is_safe"] = raw_data["is_safe"].astype("category")
 
 # Конвертация значений фичей в удобный вид. Приведённый к нужным типам данных датасет называется data
 data = raw_data.convert_dtypes()
-
 print(data.head(10))
